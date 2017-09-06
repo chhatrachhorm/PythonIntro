@@ -3,6 +3,9 @@
 Net-Centric Computing Assignment
 Part A - RSA Encryption
 '''
+'''
+All credits go to the original owner
+'''
 
 import random
 
